@@ -28,7 +28,7 @@ Virama is a minimal, text-first Android home launcher built to reduce visual clu
 
 ## Install
 
-Download the APK from the repository's **Releases** section. Virama currently requires Android 17 (API 37).
+[Download the APK from the latest release](https://github.com/Nikkjoshi/virama-android-launcher/releases/latest). Virama currently requires Android 17 (API 37).
 
 ## Build
 
